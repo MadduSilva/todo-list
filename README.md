@@ -26,7 +26,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[CSS](https://exemplo.com)**
 - **[JS](https://exemplo.com)**
 
-> Veja o arquivo [TodoList-ByMaddu](https://maddusilva.github.io/clone-netflix/)
+> Veja o arquivo [TodoList-ByMaddu](https://maddusilva.github.io/todo-list/)
 
 **Utilitários**
 
