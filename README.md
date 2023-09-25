@@ -2,7 +2,7 @@
 <h1 align="center" id="project_name">
   <br />
     Lista de Tarefas
-  <br />
+  <br /><br />
   <img src="img/to-do-list.png" alt="Logo" height="60%" width="60%">
   <br />
 </h1>
