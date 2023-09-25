@@ -31,6 +31,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 **Utilitários**
 
 - Editor: **[Visual Studio Code](https://code.visualstudio.com/)**
+- Hospedagem: **[GitHub Pages](https://pages.github.com/)**
 
 
 <h2 id="author">🦸 Autor</h2>
